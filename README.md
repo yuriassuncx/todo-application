@@ -41,6 +41,9 @@ Projeto desenvolvido por mim, com o intuito de um usuário criar tarefas diária
    - [x] class-validator
 
    ![image](https://user-images.githubusercontent.com/104099580/213275252-eb02b5eb-ba59-4ac6-aacd-329d98ed6649.png)
+   ```sh
+   $ O servidor se encontra na branch server
+   ```
 
 # 📋 Instalação:
 
